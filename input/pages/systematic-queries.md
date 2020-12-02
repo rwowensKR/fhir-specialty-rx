@@ -1,6 +1,6 @@
 Much of the information needed to fulfill a specialty medication can be retrieved systematically from the prescriber's EHR: allergies, conditions, active medications, and other patient information. This section details those exchange flows.
 
-In all workflow scenarios, Specialty Rx exchanges takes place after the specialty medication prescription has been received by the pharmacy or other party involved in fulfilling the prescription. In the US, electronic prescriptions are typically transmitted using the NCPDP SCRIPT standard, though there are also occasions where prescriptions are received via fax or through other non-electronic methods.
+In all workflow scenarios, Specialty Rx exchanges take place after the specialty medication prescription has been received by the pharmacy or other party involved in fulfilling the prescription. In the US, electronic prescriptions are typically transmitted using the NCPDP SCRIPT standard, though there are also occasions where prescriptions are received via fax or through other non-electronic methods.
 
 This section...
 
