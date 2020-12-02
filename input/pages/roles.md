@@ -37,7 +37,7 @@ The prescriber typically provides responses to information requests that require
 
 #### Prescriber Agent
 
-The prescriber agent can provide responses to on behalf of the prescriber
+The prescriber agent can provide responses on behalf of the prescriber
 
 #### Requester Staff
 
